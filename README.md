@@ -1,0 +1,2 @@
+# expencese
+EXPENCE TRACKER CLI
